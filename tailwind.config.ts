@@ -65,9 +65,8 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				'tech-blue': '#0066FF',
-				'dark-surface': '#11A1A1A',
-				'green-accent': '#00D4AA'
+				'glass': 'rgba(255, 255, 255, 0.25)',
+				'glass-border': 'rgba(255, 255, 255, 0.18)'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
